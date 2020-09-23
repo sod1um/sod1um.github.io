@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 荒谬时代的日记
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我叫王帅，神经外科博士在读
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 喜欢听中国摇滚，等各种土摇
+- 喜欢看《两杆大烟枪》《落水狗》，等各种黑色幽默
+- 喜欢读王小波，刘震云，等各种意识流作品
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### 安
