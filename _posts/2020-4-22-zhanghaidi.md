@@ -8,18 +8,24 @@ author: ws
 <!--more-->
 
 ```
-地址 (Address) = 104.199.242.106
-端口 (Port) = 6667
-用户ID (User ID / UUID) = 869bfeb7-2da4-41d8-a480-4d2f5d6dcc38
-额外ID (Alter Id) = 233
+地址 (Address) = 34.80.213.15
+
+端口 (Port) = 1314
+
+用户ID (User ID / UUID) = d9d08901-e146-4d5f-9167-fb34cf4af76d
+
+额外ID (Alter Id) = 0
+
 传输协议 (Network) = ws
+
 伪装类型 (header type) = none
 
-vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8xMDQuMTk5LjI0Mi4xMDYiLAoiYWRkIjogIjEwNC4xOTkuMjQyLjEwNiIsCiJwb3J0Ijo
-gIjY2NjciLAoiaWQiOiAiODY5YmZlYjctMmRhNC00MWQ4LWE0ODAtNGQyZjVkNmRjYzM4IiwKImFpZCI6ICIyMzMiLAoibmV0IjogIndzIiwKInR5cG
-UiOiAibm9uZSIsCiJob3N0IjogIiIsCiJwYXRoIjogIiIsCiJ0bHMiOiAiIgp9Cg==
+
+vmess://eyJwb3J0IjoiMTMxNCIsInBzIjoiMTUiLCJ0bHMiOiJub25lIiwiaWQiOiJkOWQwODkwMS1lMTQ2LTRkNWYtOTE2Ny1mYjM0Y2Y0YWY3NmQiLCJhaWQiOiIwIiwidiI6IjIiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIiwibmV0Ijoid3MiLCJhZGQiOiIzNC44MC4yMTMuMTUifQ==
 ```
+
+![](/images/1314.png)
 
  [二维码][1]
 
- [1]: https://233boy.github.io/tools/qr.html#vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8xMDQuMTk5LjI0Mi4xMDYiLAoiYWRkIjogIjEwNC4xOTkuMjQyLjEwNiIsCiJwb3J0IjogIjY2NjciLAoiaWQiOiAiODY5YmZlYjctMmRhNC00MWQ4LWE0ODAtNGQyZjVkNmRjYzM4IiwKImFpZCI6ICIyMzMiLAoibmV0IjogIndzIiwKInR5cGUiOiAibm9uZSIsCiJob3N0IjogIiIsCiJwYXRoIjogIiIsCiJ0bHMiOiAiIgp9Cg==
+ [1]: https://233boy.github.io/tools/qr.html#vmess://eyJwb3J0IjoiMTMxNCIsInBzIjoiMTUiLCJ0bHMiOiJub25lIiwiaWQiOiJkOWQwODkwMS1lMTQ2LTRkNWYtOTE2Ny1mYjM0Y2Y0YWY3NmQiLCJhaWQiOiIwIiwidiI6IjIiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIiwibmV0Ijoid3MiLCJhZGQiOiIzNC44MC4yMTMuMTUifQ==

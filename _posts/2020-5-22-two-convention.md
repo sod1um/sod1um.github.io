@@ -8,14 +8,14 @@ author: ws
 <!--more-->
 
 ```
-地址 (Address) = 34.80.245.9
-端口 (Port) = 7788
-用户ID (User ID / UUID) = 960b868a-fce9-4ba1-899c-0b1fe8d47850
-额外ID (Alter Id) = 233
-传输协议 (Network) = tcp
+地址 (Address) = 35.221.215.41
+端口 (Port) = 2,666
+用户ID (User ID / UUID) = 14aa8cdb-b017-43a4-be73-f4d8b816aa60
+额外ID (Alter Id) = 0
+传输协议 (Network) = ws
 伪装类型 (header type) = none
 
-vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8zNC44MC4yNDUuOSIsCiJhZGQiOiAiMzQuODAuMjQ1LjkiLAoicG9ydCI6ICI3Nzg4IiwKImlkIjogIjk2MGI4NjhhLWZjZTktNGJhMS04OTljLTBiMWZlOGQ0Nzg1MCIsCiJhaWQiOiAiMjMzIiwKIm5ldCI6ICJ0Y3AiLAoidHlwZSI6ICJub25lIiwKImhvc3QiOiAiIiwKInBhdGgiOiAiIiwKInRscyI6ICIiCn0K
+vmess://eyJwb3J0IjoiMjY2NiIsInBzIjoic3VtNDEiLCJ0bHMiOiJub25lIiwiaWQiOiIxNGFhOGNkYi1iMDE3LTQzYTQtYmU3My1mNGQ4YjgxNmFhNjAiLCJhaWQiOiIwIiwidiI6IjIiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIiwibmV0Ijoid3MiLCJhZGQiOiIzNS4yMjEuMjE1LjQxIn0=
 
 ```
 
